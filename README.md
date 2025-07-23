@@ -1,4 +1,4 @@
-# COSMOTE Spammer SMS (iOS / Android)
+# COSMOTE SMS spammer (iOS / Android)
 
 **⚠️ DISCLAIMER: This tool is for educational and testing purposes only. Do not use it for illegal activities, including spamming, harassment, or unauthorized access.**
 
