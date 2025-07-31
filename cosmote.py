@@ -18,7 +18,7 @@ print(f"""
    :      : :  :    : :  :   : :: : :  :    
           {Fore.RESET} 
 
-{Fore.MAGENTA}Made With Toozi | Discord @ cmonty732 | ID 249347422017290240{Fore.RESET}                         
+{Fore.MAGENTA}Made With M07 | Discord @ cmonty732 | ID 1106351532527583273{Fore.RESET}                         
 """)
 
 number = input("Enter Number: ")
